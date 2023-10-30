@@ -1,3 +1,3 @@
-# Todo app functionality
+# Todo app
 
-A basic todo app functionality using HTML and JavaScript.
+A basic todo app with HTML and JavaScript
